@@ -14,7 +14,7 @@ union person2{
 }data2;
 
 int main(){
- printf("size of data1: %d", sizeof(data1));
+ printf("size of data1: %d", sizeof(data1)); //20+4+8 = 32
  printf("size of data2: %d", sizeof(data2));
 }
 
