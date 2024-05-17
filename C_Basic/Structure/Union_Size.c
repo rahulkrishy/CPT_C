@@ -15,7 +15,7 @@ union person2{
 
 int main(){
  printf("size of data1: %d", sizeof(data1)); //20+4+8 = 32
- printf("size of data2: %d", sizeof(data2));
+ printf("size of data2: %d", sizeof(data2)); //24 bytes (to meet the 8-byte alignment requirement from double)
 }
 
 
