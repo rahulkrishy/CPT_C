@@ -74,7 +74,7 @@ This section is the foundation of your C programming learning path. Each subtopi
 
 ### C_Practice:
 
-This section provides a collection of coding exercises aimed at helping you master key concepts. Practice challenges are included for:
+This Folder provides a collection of coding exercises aimed at helping you master key concepts.
 
 - **Array**
 - **Patterns**
@@ -86,7 +86,7 @@ This section provides a collection of coding exercises aimed at helping you mast
 
 ### C_Tasks:
 
-Challenge yourself with practical C projects. These tasks are designed to test your knowledge and build real-world coding skills.
+This folder contains hands-on C programming tasks.
 
 - `Calculator`
 - `ContactListManagementSystem`
@@ -96,13 +96,14 @@ Challenge yourself with practical C projects. These tasks are designed to test y
 
 ### C_Template:
 
-To help you set up your development environment, we've included a `.vscode tasks.json` template file for Visual Studio Code. This will streamline your coding and testing process.
+To help you set up your development environment, I've included a `.vscode tasks.json` template file for Visual Studio Code. This will streamline your coding and testing process.
 
 ---
 
 ## Stay Tuned for More Updates! 🚀
 
-This repository is continuously evolving. More topics, exercises, and projects will be added, Stay tuned for updates. Greets!
+This repository is continuously evolving, with more content, tasks, and exercises coming soon. <br>
+Stay tuned for updates, Until then keep practicing. Greets!
 
 
 
