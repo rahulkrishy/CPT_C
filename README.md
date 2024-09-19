@@ -16,59 +16,59 @@
 This section is the foundation of your C programming learning path. Each subtopic delves into a core concept in C programming and is accompanied by practical code examples.
 
 - **Basic:**
-   - `Hello_World`: Your first C program.
-   - `Typedef`: Simplifying type definitions.
-   - `SwitchCase`: Implementing conditional logic.
-   - `enum`: Working with enumerations.
-   - `StorageClass`: Understanding variable scope and lifetime.
+   - `Hello_World`
+   - `Typedef`
+   - `SwitchCase`
+   - `enum`
+   - `StorageClass`
 
 - **Array:**
-   - `2D_Array`: Manipulating two-dimensional arrays.
-   - `Multi_DimentionalArray`: Working with multi-dimensional arrays.
+   - `2D_Array`
+   - `Multi_DimentionalArray`
 
 - **String:**
-   - `StringReading`: Reading strings from user input.
-   - `String-Output_Formatting`: Formatting strings for output.
-   - `StringFunction`: Using built-in string functions.
-   - `StringWithoutFunction`: Manual string manipulation.
+   - `StringReading`
+   - `String-Output_Formatting`
+   - `StringFunction`
+   - `StringWithoutFunction`
 
 - **Pointers:**
-   - `Pointers`: Introduction to pointer variables.
-   - `PointerAddressincrement`: Incrementing pointer addresses.
-   - `PointerStringAccess`: Accessing strings via pointers.
-   - `PointerToFunction`: Using function pointers.
-   - `DoublePointer`: Working with double pointers.
-   - `Pointer-Access_1DArray`: Accessing 1D arrays using pointers.
-   - `Pointers-Access_2DArray`: Accessing 2D arrays with pointers.
+   - `Pointers`
+   - `PointerAddressincrement`
+   - `PointerStringAccess`
+   - `PointerToFunction`
+   - `DoublePointer`
+   - `Pointer-Access_1DArray`
+   - `Pointers-Access_2DArray`
 
 - **Recursion:**
-   - `Recursion-Find_SumofDigit`: Recursive function to calculate sum of digits.
-   - `Recursion-Find_Factorial`: Factorial calculation using recursion.
-   - `Recursion-Find_FibonacciSeries`: Generating Fibonacci series recursively.
+   - `Recursion-Find_SumofDigit`
+   - `Recursion-Find_Factorial`
+   - `Recursion-Find_FibonacciSeries`
 
 - **Structure_Union:**
-   - `Structure`: Defining and using structures.
-   - `Structure-ArrayAccess_StudentDetails`: Accessing arrays of structures.
-   - `StuctureWithPointer`: Structure pointers in action.
-   - `StuctureWithFunction`: Passing structures to functions.
-   - `StructureVsUnion`: Key differences between structures and unions.
-   - `Union_Size`: Memory management in unions.
+   - `Structure`
+   - `Structure-ArrayAccess_StudentDetails`
+   - `StuctureWithPointer`
+   - `StuctureWithFunction`
+   - `StructureVsUnion`
+   - `Union_Size`
 
 - **FileHandling:**
-   - `FileHandling`: Basics of file operations.
-   - `FileHandling-Read_Write`: Reading from and writing to files.
-   - `FileHandling-Functions`: Essential file handling functions.
+   - `FileHandling`
+   - `FileHandling-Read_Write`
+   - `FileHandling-Functions`
 
 - **DynamicMemoryAllocation:**
-   - `DynamicMemoryAllocation-malloc`: Allocating memory dynamically with `malloc()`.
-   - `DynamicMemoryAllocation-calloc`: Using `calloc()` for dynamic memory allocation.
-   - `DynamicMemoryAllocation-realloc`: Reallocating memory with `realloc()`.
+   - `DynamicMemoryAllocation-malloc`
+   - `DynamicMemoryAllocation-calloc`
+   - `DynamicMemoryAllocation-realloc`
 
 - **MemoryManagement:**
-   - `MemoryHandling-Functions`: Memory handling techniques and functions.
+   - `MemoryHandling-Functions`
 
 - **DSA:**
-   - `Binary Search Algorithm`: Implementation of binary search in C.
+   - `Binary Search Algorithm`
 
 ---
 
@@ -88,9 +88,9 @@ This section provides a collection of coding exercises aimed at helping you mast
 
 Challenge yourself with practical C projects. These tasks are designed to test your knowledge and build real-world coding skills.
 
-- `Calculator`: Develop a basic calculator program.
-- `ContactListManagementSystem`: Build a contact management system.
-- `NumberGuessingGame`: Create a fun number guessing game.
+- `Calculator`
+- `ContactListManagementSystem`
+- `NumberGuessingGame`
 
 ---
 
