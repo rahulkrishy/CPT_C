@@ -1,7 +1,7 @@
 # Welcome to the CPT(Concepts-Practices-Tasks)_C Programming Language Learning Guide! 👨🏻‍💻🚀
 ---
 ## 📚 About This Repository
-✧ This repository is designed to guide you through fundamental concepts, offer hands-on practices, and engage with real-world tasks in C programming, starting from the basics and advancing to complex topics. Whether you're a beginner or an experienced coder, this learning path will help you sharpen your C programming skills. <br>
+✧ This repository is designed to guide you through fundamental concepts, offer hands-on practices, and engage with real-world tasks in C programming, starting from the basics and advancing to complex topics. <br>
 ✧ The repository is divided into multiple folders containing lessons and practice exercises for a specific topic. 
 
 ## 📋 Table of Contents
