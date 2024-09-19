@@ -1,8 +1,8 @@
 # Welcome to the ELP(Explore-Learn-Practice)_C Programming Language Learning Path! 👋 
 ---
 ## About This Repository
-◉ This repository is designed to help you explore, learn, and practice C programming, starting from the basics and advancing to complex topics. Whether you're a beginner or an experienced coder, this learning path will help you sharpen your C programming skills. <br>
-◉ The repository is divided into multiple folders containing lessons and practice exercises for a specific topic. 
+● This repository is designed to help you explore, learn, and practice C programming, starting from the basics and advancing to complex topics. Whether you're a beginner or an experienced coder, this learning path will help you sharpen your C programming skills. <br>
+● The repository is divided into multiple folders containing lessons and practice exercises for a specific topic. 
 
 ## Table of Contents
 1. [C_Concepts](#C_Concepts)  
