@@ -100,7 +100,7 @@ To help you set up your development environment, I've included a `.vscode tasks.
 
 ---
 
-## Stay Tuned for More Updates! 🚀
+## Stay Tuned for More Updates! 🚀🔥
 
 This repository is continuously evolving, with more content, tasks, and exercises coming soon. <br>
 Stay tuned for updates, Until then keep practicing. Greets!
