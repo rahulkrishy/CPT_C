@@ -72,7 +72,7 @@ This section is the foundation of your C programming learning path. Each subtopi
 
 ---
 
-### C_Practice:
+### C_Practices:
 
 This Folder provides a collection of coding exercises aimed at helping you master key concepts.
 
