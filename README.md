@@ -5,7 +5,7 @@
 ↣ The repository is divided into multiple folders containing lessons and practice exercises for a specific topic. 
 
 ## Table of Contents
-[C_Concepts](#C_Concepts)  |  [C Practice](#c-practice)  |  [C Tasks](#c-tasks)  |  [C Templates](#c-templates)
+[C_Concepts](#C_Concepts)  |  [C Practice](#C_Practice)  |  [C Tasks](#C_Tasks)  |  [C Template](#C_Template)
 ---
 ## Repository Content
 
