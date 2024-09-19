@@ -12,7 +12,7 @@
 ---
 ## Repository Content
 
-### <span style="color:blue">C_Concepts</span>:
+### C_Concepts:
 This section is the foundation of your C programming learning path. Each subtopic delves into a core concept in C programming and is accompanied by practical code examples.
 
 - **Basic:**
