@@ -86,11 +86,7 @@ This Folder provides a collection of coding exercises aimed at helping you maste
 
 ### C_Tasks:
 
-This folder contains hands-on C programming tasks.
-
-- `Calculator`
-- `ContactListManagementSystem`
-- `NumberGuessingGame`
+This folder contains project-based tasks designed to apply and reinforce key concepts in C programming.
 
 ---
 
