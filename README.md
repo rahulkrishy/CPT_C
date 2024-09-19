@@ -1,41 +1,16 @@
-# Welcome to the ELP(Explore Learn Practice) C Programming Language Learning Path! 👋
-
+# Welcome to the ELP(Explore-Learn-Practice)_C Programming Language Learning Path! 👋 
+---
 ## About This Repository
-↣ This repository is designed to help you explore, learn, and practice C programming, starting from the basics and advancing to complex topics. Whether you're a 
-   beginner or an experienced coder, this learning path will help you sharpen your C programming skills.
-
+↣ This repository is designed to help you explore, learn, and practice C programming, starting from the basics and advancing to complex topics. Whether you're a beginner or an experienced coder, this learning path will help you sharpen your C programming skills. <br>
+↣ The repository is divided into multiple folders containing lessons and practice exercises for a specific topic. 
 ---
-
-
-
-This repository provides a folder-wise learning path for C programming. Each folder focuses on a specific topic, complete with code examples and practice exercises to solidify your understanding. From writing your first "Hello, World!" program to mastering advanced data structures and algorithms, this is the perfect resource for all levels of learners.
-
----
-
 ## Table of Contents
-
-1. [C Concepts](#c-concepts)
-   - Basic
-   - Array
-   - String
-   - Pointers
-   - Recursion
-   - Structure & Union
-   - File Handling
-   - Dynamic Memory Allocation
-   - Memory Management
-   - DSA
-2. [C Practice](#c-practice)
-3. [C Tasks](#c-tasks)
-4. [C Templates](#c-templates)
-
+[C_Concepts](#C_Concepts)  |  [C Practice](#c-practice)  |  [C Tasks](#c-tasks)  |  [C Templates](#c-templates)
 ---
-
 ## Repository Content
 
 ### C_Concepts:
-
-This section is the foundation of your C programming learning path. Each subtopic delves into a core concept in C programming, accompanied by practical code examples.
+This section is the foundation of your C programming learning path. Each subtopic delves into a core concept in C programming and is accompanied by practical code examples.
 
 - **Basic:**
    - `Hello_World`: Your first C program.
@@ -110,9 +85,9 @@ This section provides a collection of coding exercises aimed at helping you mast
 
 Challenge yourself with practical C projects. These tasks are designed to test your knowledge and build real-world coding skills.
 
-- `Calculator.c`: Develop a basic calculator program.
-- `ContactListManagementSystem.c`: Build a contact management system.
-- `NumberGuessingGame.c`: Create a fun number guessing game.
+- `Calculator`: Develop a basic calculator program.
+- `ContactListManagementSystem`: Build a contact management system.
+- `NumberGuessingGame`: Create a fun number guessing game.
 
 ---
 
@@ -124,7 +99,7 @@ To help you set up your development environment, we've included a `.vscode tasks
 
 ## Stay Tuned for More Updates! 🚀
 
-This repository is continuously evolving. More topics, exercises, and projects will be added, so keep an eye out for updates. Happy coding!
+This repository is continuously evolving. More topics, exercises, and projects will be added, Stay tuned for updates. Greets!
 
 
 
