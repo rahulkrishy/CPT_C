@@ -6,7 +6,7 @@
 
 ## 📋 Table of Contents
 1. [C_Concepts](#C_Concepts)  
-2. [C Practice](#C_Practice)
+2. [C Practices](#C_Practice)
 3. [C Tasks](#C_Tasks)
 4. [C Template](#C_Template)
 ---
