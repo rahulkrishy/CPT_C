@@ -24,7 +24,7 @@ This section is the foundation of your C programming learning path. Each subtopi
 
 - **Array:**
    - `2D_Array`
-   - `Multi_DimentionalArray`
+   - `Multi_DimensionalArray`
 
 - **String:**
    - `StringReading`
@@ -102,8 +102,7 @@ To help you set up your development environment, I've included a `.vscode tasks.
 
 ## Stay Tuned for More Updates! 🚀🔥
 
-This repository is continuously evolving, with more content, tasks, and exercises coming soon. <br>
-Stay tuned for updates, Until then keep practicing. Greets!
+I'm continuously adding new content, tasks, and exercises to this repository. If you have any feedback or suggestions to improve it, feel free to share your thoughts. Stay tuned for updates, and until then, keep practicing. Greets!
 
 
 
