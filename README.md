@@ -6,9 +6,9 @@
 
 ## 📋 Table of Contents
 1. [C_Concepts](#C_Concepts)  
-2. [C Practices](#C_Practices)
-3. [C Tasks](#C_Tasks)
-4. [C Template](#C_Template)
+2. [C_Practices](#C_Practices)
+3. [C_Tasks](#C_Tasks)
+4. [C_Template](#C_Template)
 ---
 ## 📖 Repository Content
 
